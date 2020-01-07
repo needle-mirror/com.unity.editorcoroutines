@@ -1,1 +1,1 @@
-Editor Coroutines Package Repository
+Editor Coroutines

@@ -12,7 +12,7 @@ To install this package, follow the instructions in the [Package Manager documen
 
 # Using Editor Coroutines
 
-To learn how to use the Editor Coroutines package in your project, read the [manual](manual.md).
+To learn how to use the Editor Coroutines package in your project, please refer to the Scripting API section of the documentation.
 
 # Technical details
 ## Requirements
@@ -44,5 +44,6 @@ The following table indicates the root folders in the package where you can find
 
 |Date|Reason|
 |---|---|
+|June 20, 2019|Removed deprecated manual link.|
 |Dec 7, 2018|Api documentation added. Matches package version 0.0.1-preview.4.|
 |Oct 11, 2018|Document created. Matches package version 0.0.1-preview.2.|
